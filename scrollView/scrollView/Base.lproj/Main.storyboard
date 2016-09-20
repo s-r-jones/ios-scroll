@@ -31,7 +31,7 @@
                             </imageView>
                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" pagingEnabled="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" translatesAutoresizingMaskIntoConstraints="NO" id="N7f-vb-LHb">
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="260" id="Udo-W9-sSV"/>
+                                    <constraint firstAttribute="width" constant="220" id="Udo-W9-sSV"/>
                                 </constraints>
                             </scrollView>
                         </subviews>
